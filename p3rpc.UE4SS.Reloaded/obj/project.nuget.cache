@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tm2Me1vuYlxlkY6SilAJwUsqCHJLebsGGLjsrWTQ/vC5jZGmiNSqR1sgzyuq3b8XQi+KFIFtfnvecpX4gqRbhw==",
+  "success": true,
+  "projectFilePath": "D:\\VSProjects\\p3rpc.UE4SS.Reloaded\\p3rpc.UE4SS.Reloaded\\p3rpc.UE4SS.Reloaded.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512",
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\desvstvyy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

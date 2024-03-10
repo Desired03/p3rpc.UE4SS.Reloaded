@@ -1,0 +1,21 @@
+{
+  "ModId": "p3rpc.UE4SS.Reloaded",
+  "ModName": "p3rpc.UE4SS.Reloaded",
+  "ModAuthor": "desvstvyy, WistfulHopes, UE4SS Team",
+  "ModVersion": "3.0.1",
+  "ModDescription": "A fork of WistfulHopes' UE4SS as a Reloaded II mod. Intended for Persona 3 Reload.",
+  "ModDll": "p3rpc.UE4SS.Reloaded.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p3rpc.UE4SS.Reloaded.dll",
+  "ModR2RManagedDll64": "x64/p3rpc.UE4SS.Reloaded.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.UE4SS.Reloaded.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [ "p3r.exe" ],
+  "ProjectUrl": ""
+}

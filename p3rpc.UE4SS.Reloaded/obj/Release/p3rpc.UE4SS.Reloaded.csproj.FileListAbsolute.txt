@@ -1,0 +1,15 @@
+D:\Modding\Persona\P3R\Reloaded II\Mods\p3rpc.UE4SS.Reloaded\Preview.png
+D:\Modding\Persona\P3R\Reloaded II\Mods\p3rpc.UE4SS.Reloaded\ModConfig.json
+D:\Modding\Persona\P3R\Reloaded II\Mods\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded.deps.json
+D:\Modding\Persona\P3R\Reloaded II\Mods\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded.dll
+D:\Modding\Persona\P3R\Reloaded II\Mods\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded.pdb
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.csproj.AssemblyReference.cache
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.AssemblyInfoInputs.cache
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.AssemblyInfo.cs
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.csproj.CoreCompileInputs.cache
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE.E3068A02.Up2Date
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.dll
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\refint\p3rpc.UE4SS.Reloaded.dll
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\p3rpc.UE4SS.Reloaded.pdb
+D:\VSProjects\p3rpc.UE4SS.Reloaded\p3rpc.UE4SS.Reloaded\obj\Release\ref\p3rpc.UE4SS.Reloaded.dll
