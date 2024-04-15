@@ -6,6 +6,3 @@ This is just meant to be a temporary solution to make the Aikoto Mod a Reloaded 
 Targets version 3.0.1 of UE4SS.
 
 I don't intend to support other games, nor do I intend to keep this updated.
-
-## Notes
-- Currently, the source code is out of date. Eventually I'll upload the version that targets the experimental branch of UE4SS
